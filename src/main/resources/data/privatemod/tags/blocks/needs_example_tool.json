@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "privatemod:example_block",
+    "privatemod:planks_ore"
+  ]
+}

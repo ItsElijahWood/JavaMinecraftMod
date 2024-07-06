@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "features": "privatemod:overworld_planks_ore",
+  "biomes": "#minecraft:is_overworld",
+  "steps": "underground_ores"
+}

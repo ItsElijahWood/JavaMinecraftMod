@@ -1,0 +1,8 @@
+{
+  "item.privatemod.example_item": "IconCreativeTab",
+  "itemGroup.mod_tab": "Mod Items",
+  "block.privatemod.example_block": "RedBlock Smooth",
+  "block.privatemod.planks_birch": "OakPlanks Yellow",
+  "block.privatemod.planks_birch_blue": "OakPlanks Blue",
+  "block.privatemod.planks_ore": "Oak Ore"
+}
